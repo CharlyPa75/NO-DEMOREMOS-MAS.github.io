@@ -7,7 +7,7 @@ const documentReady = () => {
 
   const nowZomosNobios = () => {
     alert('💞 Now zomos ParTnEr 💞');
-    alert('😱Nuestra VoDa Is MañaNa😱');
+    alert('😱Nuestra VoDa Es MañaNa😱');
     location.href = 'https://www.youtube.com/watch?v=TVY4fQEHmLk&ab_channel=songsSub';
   };
 
